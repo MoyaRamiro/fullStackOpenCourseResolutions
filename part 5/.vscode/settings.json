@@ -1,0 +1,5 @@
+{
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+    "notebook.defaultFormatter": null,
+    "editor.formatOnSave": true
+}
